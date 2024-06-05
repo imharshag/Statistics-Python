@@ -1,6 +1,6 @@
 # Statistics Laboratory Program Python
 
-🚀 To get started, simply install Python and Jupyter Notebook on your system, load up the required dataset, and let the magic begin!. This Python program, executed within the Jupyter Notebook environment, is designed for JSS Science and Technology students of Statistics Laboratory (20IS67L).
+🚀 To get started, simply install Python and Jupyter Notebook on your system, load up the required dataset, and let the magic begin!. This Python program, executed within the Jupyter Notebook environment, is designed for students studying in **JSS Science and Technology University** which is of Statistics Laboratory (20IS67L).
 
 ### Contact
 For inquiries or feedback, please contact **[Harsha G](mailto:harshag3106@gmail.com)**
